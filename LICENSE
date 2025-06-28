@@ -1,0 +1,10 @@
+
+3. 同樣在資料夾中建立 `LICENSE` （純文字檔），貼上 **MIT License**：
+
+```text
+MIT License
+
+Copyright (c) 2025 chenmapper
+
+Permission is hereby granted, free of charge, to any person obtaining a copy...
+[請填入完整 MIT 條款，GitHub 網站上可自動產生]

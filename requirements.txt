@@ -1,0 +1,6 @@
+streamlit
+pandas
+svgwrite
+openpyxl
+xlrd
+geopy
