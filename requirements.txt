@@ -1,7 +1,8 @@
 streamlit
 pandas
-svgwrite
 openpyxl
 xlrd
 geopy
 geocoder
+geopandas
+svgwrite
