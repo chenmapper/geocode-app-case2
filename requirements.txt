@@ -4,3 +4,4 @@ svgwrite
 openpyxl
 xlrd
 geopy
+geocoder
